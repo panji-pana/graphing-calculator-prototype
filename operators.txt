@@ -1,0 +1,12 @@
+[
+    [' ',''],
+    ['^','**'],
+    ['sin','np.sin'],
+    ['tan','np.tan'],
+    ['cos','np.cos'],
+    ['deg','*(pi/180)'],
+    ['pi','np.pi'],
+    # ['!, '["np.factorial"]()'],
+    ['sqrt','np.sqrt'],
+    ['e','np.e']
+]
