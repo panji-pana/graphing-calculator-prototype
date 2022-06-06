@@ -1,4 +1,4 @@
-# graphing-calculator-proto-3
+# Graphing Calculator Prototype
 3rd graphing calculator prototype
 
 ## Libraries used
